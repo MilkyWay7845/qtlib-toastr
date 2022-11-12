@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>check.png</file>
+        <file>error.png</file>
+        <file>info.png</file>
+        <file>warning.png</file>
+        <file>message.png</file>
+        <file>shield.png</file>
+    </qresource>
+</RCC>
